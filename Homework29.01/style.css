@@ -1,0 +1,44 @@
+.contaner{
+	margin:0;
+	display:flex;
+	height:100vh;
+	
+}
+.yellow{
+	background:yellow;
+	width:160px;
+	flex:none;
+	
+}
+.gray{
+	background:gray;
+	width:1087px;
+	display:flex;
+	flex-direction:column;
+	
+}
+.blue{
+	background:blue;
+	height:120px;
+	flex:none;
+}
+.white{
+	background:white;
+	height:450px;
+	display:flex;
+	justify-content:flex-end;
+	
+}
+.green{
+	background:green;
+	align-items:center;
+	height:78px;
+	flex:none;
+}
+.red{
+	background:red;
+	width:120px;
+	flex:none;
+	
+}
+
